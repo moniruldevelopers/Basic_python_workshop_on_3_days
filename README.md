@@ -1,1 +1,0 @@
-# Basic_python_workshop_on_3_days
